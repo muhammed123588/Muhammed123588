@@ -1,4 +1,4 @@
-[![MasterHead](https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+[![MasterHead](https://www.fundomundo.com/kesfet/wp-content/uploads/2022/04/yazilim.jpg)
 <h1 align="center">Merhaba 👋, ben Muhammed Erdaş</h1>
 <h3 align="center">Türkiye'den tutkulu bir ön uç geliştirici</h3>
 
