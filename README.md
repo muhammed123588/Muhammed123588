@@ -46,7 +46,9 @@
 [![Hitman 3 | Marrakesh (Bölüm 4)](https://ytcards.demolab.com/?id=kGZKCgaWOXw&title=Hitman+3+%7C+Marrakesh+%28B%C3%B6l%C3%BCm+4%29&lang=en&timestamp=1705788416&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Hitman 3 | Marrakesh (Bölüm 4)")](https://www.youtube.com/watch?v=kGZKCgaWOXw)
 <!-- END YOUTUBE-CARDS -->
 
-
+<picture>
+![snake gif](https://github.com/muhammed123588/muhammed123588/blob/output/github-contribution-grid-snake.gif)
+</picture>
 
 
 
@@ -97,7 +99,7 @@
 
 
 <br />
-![snake gif](https://github.com/muhammed123588/muhammed123588/blob/output/github-contribution-grid-snake.gif)
+
 
 <!--
 </details>
