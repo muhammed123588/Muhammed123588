@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/muhammed123588/Muhammed123588/blob/main/Paragraf%20metniniz.gif?raw=true)
+![MasterHead](https://github.com/muhammed123588/Muhammed123588/blob/main/Paragraf%20metniniz%20(1).gif?raw=true)
 ![](https://komarev.com/ghpvc/?username=muhammed123588&color=blue)
 <div align="center">
  <a href="https://github.com/muhammed123588">
