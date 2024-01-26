@@ -47,7 +47,12 @@
 <!-- END YOUTUBE-CARDS -->
 
 
-![snake gif](https://github.com/muhammed123588/muhammed123588/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/muhammed123588/muhammed123588/blob/output/github-contribution-grid-snake.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/muhammed123588/muhammed123588/blob/output/github-contribution-grid-snake.gif">
+  <img alt="github contribution grid snake animation" src="[https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg](https://github.com/muhammed123588/muhammed123588/blob/output/github-contribution-grid-snake.gif)">
+</picture>
+
 
 
 
