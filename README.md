@@ -47,7 +47,6 @@
 <!-- END YOUTUBE-CARDS -->
 
 
-![snake gif](https://github.com/muhammed123588/muhammed123588/blob/output/github-contribution-grid-snake.gif)
 
 
 
@@ -98,7 +97,7 @@
 
 
 <br />
-
+![snake gif](https://github.com/muhammed123588/muhammed123588/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 </details>
