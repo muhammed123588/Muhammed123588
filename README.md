@@ -61,7 +61,7 @@
  
   <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
+    <img heigth="160" width="182" src="https://scontent.fada9-1.fna.fbcdn.net/v/t39.30808-6/422943888_345350545119014_511347683773918982_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=3635dc&_nc_ohc=Jr8Bm-rKB4MAX8Lil9L&_nc_ht=scontent.fada9-1.fna&oh=00_AfBs-Sjyixu21BPrZ-QwryvXbziRx3jaFE69dFjKMw1khw&oe=65B91F99>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammed123588&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="CagatayAkkas" />
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
   </a>
