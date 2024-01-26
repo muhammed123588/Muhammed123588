@@ -23,7 +23,7 @@
 <a href="https://www.youtube.com/@gameacumen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammed erdaş" height="30" width="40" /></a>
 <a href="https://bionluk.com/bimami1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/muhammed123588/Muhammed123588/16682b4b7736e1525508d649b9df5aa43d3c2774/img/indir%20(1).svg" alt="muhammed erdaş" height="30" width="40" /></a>
  <a href="https://www.instagram.com/muhammederdass/" target="blank"><img align="center" src="https://raw.githubusercontent.com/muhammed123588/Muhammed123588/26e7441666f6aced512752239a545b22ea117fba/img/agram-logo-2022-svg-removebg-preview.svg" alt="muhammed erdaş" height="30" width="40" /></a>
-<a href="https://twitter.com/MuhammedErdass" target="blank"><img align="center" src=" https://raw.githubusercontent.com/muhammed123588/Muhammed123588/c286b7b4f458a56f3fb7b094c0be3bbe0b0ceab7/img/64c78ca74e3fe11c78fbcd44.svg" alt="muhammed erdaş" height="30" width="40" /></a>
+<a href="https://twitter.com/MuhammedErdass" target="blank"><img align="center" src="https://raw.githubusercontent.com/muhammed123588/Muhammed123588/c286b7b4f458a56f3fb7b094c0be3bbe0b0ceab7/img/64c78ca74e3fe11c78fbcd44.svg" alt="muhammed erdaş" height="30" width="40" /></a>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </p>
 
