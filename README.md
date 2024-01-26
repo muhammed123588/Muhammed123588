@@ -75,14 +75,6 @@
 
 
  
- <p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://github.com/muhammed123588/Muhammed123588/blob/main/img/Bird%20Wing%20Left.png?raw=true">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CagatayAkkas&theme=material-palenight&hide_border=false" alt="CagatayAkkas" width="55%" />
-    <img heigth="160" width="182" src="https://github.com/muhammed123588/Muhammed123588/blob/main/img/Bird%20Wing%20Right.png?raw=true">
-  </a>
-</p>
- 
 
  
  <br />
