@@ -53,7 +53,7 @@
 
 
 
-![snake gif](https://github.com/muhammed123588/Muhammed123588/blob/output/1_PlyeRxCFLCbP8cL7uuVt5g.gif?raw=true)
+![snake gif](https://raw.githubusercontent.com/muhammed123588/Muhammed123588/6f1c31cd77df6ae60b5bbf64aa0d3c4f0b483d5f/github-contribution-grid-snake-dark.svg)
 
 
 # Github Stats
