@@ -6,7 +6,7 @@
  </a>
 </div>
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnF5eTAwNGxhNXg2MG9hcDZ5dXh1MDBtYjVyZ3Y2b3AwYnBkenV0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coding" width=200 height=200 align="right">
+<img src="https://github.com/muhammed123588/Muhammed123588/blob/main/img/21116158daaeb1459b4ec0758505e1ad.gif?raw=true" alt="Coding" width=200 height=200 align="right">
 
 
 <h3 align="left">&nbsp; A passionate front-end developer from Turkey</h3>
