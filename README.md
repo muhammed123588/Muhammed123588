@@ -11,7 +11,7 @@
 
 <h3 align="left">&nbsp; A passionate front-end developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Javascript**
+- 🔭 I’m currently working on **JavaScript**
 
 - 📫 How to reach me **emuhammed123123@gmail.com**
 
