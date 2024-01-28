@@ -44,12 +44,12 @@
   <summary><h2>📸 My Latest YouTube Videos</h2></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Assassin's Creed 2 | Auditore Ailesi Ölmedi (Bölüm 1)](https://ytcards.demolab.com/?id=b_yR10ZG264&title=Assassin%27s+Creed+2+%7C+Auditore+Ailesi+%C3%96lmedi+%28B%C3%B6l%C3%BCm+1%29&lang=en&timestamp=1706436391&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Assassin's Creed 2 | Auditore Ailesi Ölmedi (Bölüm 1)")](https://www.youtube.com/watch?v=b_yR10ZG264)
 [![Hitman 3 | Miami (Bölüm 9)](https://ytcards.demolab.com/?id=7N5N7RXN_H0&title=Hitman+3+%7C+Miami+%28B%C3%B6l%C3%BCm+9%29&lang=en&timestamp=1706040051&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Hitman 3 | Miami (Bölüm 9)")](https://www.youtube.com/watch?v=7N5N7RXN_H0)
 [![Hitman 3 | Hawke's Bay (Bölüm 8)](https://ytcards.demolab.com/?id=pzGeXicf_0M&title=Hitman+3+%7C+Hawke%27s+Bay+%28B%C3%B6l%C3%BCm+8%29&lang=en&timestamp=1706020546&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Hitman 3 | Hawke's Bay (Bölüm 8)")](https://www.youtube.com/watch?v=pzGeXicf_0M)
 [![Hitman 3 | Hokkaido (Bölüm 7)](https://ytcards.demolab.com/?id=fSKrRGwvZIk&title=Hitman+3+%7C+Hokkaido+%28B%C3%B6l%C3%BCm+7%29&lang=en&timestamp=1706020538&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Hitman 3 | Hokkaido (Bölüm 7)")](https://www.youtube.com/watch?v=fSKrRGwvZIk)
 [![Hitman 3 | Colorado (Bölüm 6)](https://ytcards.demolab.com/?id=_-4nNniA4L4&title=Hitman+3+%7C+Colorado+%28B%C3%B6l%C3%BCm+6%29&lang=en&timestamp=1705947989&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Hitman 3 | Colorado (Bölüm 6)")](https://www.youtube.com/watch?v=_-4nNniA4L4)
 [![Hitman 3 | Bangkok (Bölüm 5)](https://ytcards.demolab.com/?id=DJ9-sX_MwDs&title=Hitman+3+%7C+Bangkok+%28B%C3%B6l%C3%BCm+5%29&lang=en&timestamp=1705788422&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Hitman 3 | Bangkok (Bölüm 5)")](https://www.youtube.com/watch?v=DJ9-sX_MwDs)
-[![Hitman 3 | Marrakesh (Bölüm 4)](https://ytcards.demolab.com/?id=kGZKCgaWOXw&title=Hitman+3+%7C+Marrakesh+%28B%C3%B6l%C3%BCm+4%29&lang=en&timestamp=1705788416&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Hitman 3 | Marrakesh (Bölüm 4)")](https://www.youtube.com/watch?v=kGZKCgaWOXw)
 <!-- END YOUTUBE-CARDS -->
 
 
