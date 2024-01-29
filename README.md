@@ -44,7 +44,12 @@
   <summary><h2>📸 My Latest YouTube Videos</h2></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Assassin's Creed 2 | Venedik'te Uçan Bir Kuş (Bölüm 4)](https://ytcards.demolab.com/?id=0OlYAeNI_eQ&title=Assassin%27s+Creed+2+%7C+Venedik%27te+U%C3%A7an+Bir+Ku%C5%9F+%28B%C3%B6l%C3%BCm+4%29&lang=en&timestamp=1706558400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Assassin's Creed 2 | Venedik'te Uçan Bir Kuş (Bölüm 4)")](https://www.youtube.com/watch?v=0OlYAeNI_eQ)
+[![Assassin's Creed 2 | Ezio'nun Sıradaki Fethi (Bölüm 3)](https://ytcards.demolab.com/?id=J7LO98MT6Bc&title=Assassin%27s+Creed+2+%7C+Ezio%27nun+S%C4%B1radaki+Fethi+%28B%C3%B6l%C3%BCm+3%29&lang=en&timestamp=1706468424&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Assassin's Creed 2 | Ezio'nun Sıradaki Fethi (Bölüm 3)")](https://www.youtube.com/watch?v=J7LO98MT6Bc)
+[![Assassin's Creed 2 | Ezio Auditore Da Firenze (Bölüm 2)](https://ytcards.demolab.com/?id=V32y_IdUAq8&title=Assassin%27s+Creed+2+%7C+Ezio+Auditore+Da+Firenze+%28B%C3%B6l%C3%BCm+2%29&lang=en&timestamp=1706468413&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Assassin's Creed 2 | Ezio Auditore Da Firenze (Bölüm 2)")](https://www.youtube.com/watch?v=V32y_IdUAq8)
+[![Assassin's Creed 2 | Auditore Ailesi Ölmedi (Bölüm 1)](https://ytcards.demolab.com/?id=b_yR10ZG264&title=Assassin%27s+Creed+2+%7C+Auditore+Ailesi+%C3%96lmedi+%28B%C3%B6l%C3%BCm+1%29&lang=en&timestamp=1706436391&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Assassin's Creed 2 | Auditore Ailesi Ölmedi (Bölüm 1)")](https://www.youtube.com/watch?v=b_yR10ZG264)
+[![Hitman 3 | Miami (Bölüm 9)](https://ytcards.demolab.com/?id=7N5N7RXN_H0&title=Hitman+3+%7C+Miami+%28B%C3%B6l%C3%BCm+9%29&lang=en&timestamp=1706040051&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Hitman 3 | Miami (Bölüm 9)")](https://www.youtube.com/watch?v=7N5N7RXN_H0)
+[![Hitman 3 | Hawke's Bay (Bölüm 8)](https://ytcards.demolab.com/?id=pzGeXicf_0M&title=Hitman+3+%7C+Hawke%27s+Bay+%28B%C3%B6l%C3%BCm+8%29&lang=en&timestamp=1706020546&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Hitman 3 | Hawke's Bay (Bölüm 8)")](https://www.youtube.com/watch?v=pzGeXicf_0M)
 <!-- END YOUTUBE-CARDS -->
 
 
