@@ -29,9 +29,7 @@
   <a href="https://linktr.ee/muhammederdasmycertificates" target="_blank"><img align="center" src="https://github.com/muhammed123588/Muhammed123588/blob/main/img/0d4e9331c3b8346858e1e5c4f77e9dfd92dccf8c38db0b280dba00076e5d5dc0_200.jpg?raw=true" height="40" width="45" />Certificates</a>
 <a href="https://github.com/404"><img src="https://github.com/muhammed123588/Muhammed123588/blob/main/img/aaa115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif?raw=true"></a>
 </p>
-
-<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="muhammed-erdaş-9b329a297" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/muhammed-erda%C5%9F-9b329a297?trk=profile-badge">Muhammed Erdaş</a></div>
-              
+     
 
 <!--
 <details>
