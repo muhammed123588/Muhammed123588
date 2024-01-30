@@ -30,7 +30,8 @@
 <a href="https://github.com/404"><img src="https://github.com/muhammed123588/Muhammed123588/blob/main/img/aaa115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif?raw=true"></a>
 </p>
 
-
+<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="muhammed-erdaş-9b329a297" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/muhammed-erda%C5%9F-9b329a297?trk=profile-badge">Muhammed Erdaş</a></div>
+              
 
 <!--
 <details>
