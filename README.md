@@ -25,7 +25,6 @@
 <a href="https://twitter.com/MuhammedErdass" target="_blank"><img align="center" src="https://raw.githubusercontent.com/muhammed123588/Muhammed123588/3652a6a1acfe0645bb3fdb73bfaa27264d7b6dc3/img/ads196177z-tasar196177m.svg" alt="muhammed erdaş" height="30" width="40" /></a>
 <a href="https://www.facebook.com/gameacumenn?locale=tr_TR" target="_blank"><img align="center" src="https://raw.githubusercontent.com/muhammed123588/Muhammed123588/45b4c61dc1367b5c6307b830b8a95f2702bcd791/img/b029bd80-381a-4869-854f-bac6f359c5c9.svg" alt="muhammed erdaş" height="30" width="40" /></a>
  <a href="https://linktr.ee/muhammederdas" target="_blank"><img align="center" src="https://github.com/muhammed123588/Muhammed123588/blob/main/img/0d4e9331c3b8346858e1e5c4f77e9dfd92dccf8c38db0b280dba00076e5d5dc0_200.jpg?raw=true" height="40" width="45" />Social Media</a>
-  <a href="https://linktr.ee/muhammederdasmycertificates" target="_blank"><img align="center" src="https://github.com/muhammed123588/Muhammed123588/blob/main/img/0d4e9331c3b8346858e1e5c4f77e9dfd92dccf8c38db0b280dba00076e5d5dc0_200.jpg?raw=true" height="40" width="45" />Certificates</a>
 <a href="https://github.com/404"><img src="https://github.com/muhammed123588/Muhammed123588/blob/main/img/aaa115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif?raw=true"></a>
 </p>
      
